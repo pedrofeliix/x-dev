@@ -1,2 +1,2 @@
 # x-dev
-Exercício do curso Dev em Dobro
+Exercício do evento Dev em Dobro onde serão criados vários cards com personagens onde haverão botões para visualizar os personagens criados.
